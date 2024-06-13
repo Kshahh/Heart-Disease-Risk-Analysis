@@ -1,13 +1,17 @@
 # Heart-Disease-Risk-Analysis
 This project contains the implementation and analysis of a predictive model for assessing the risk of heart disease based on various patient attributes. The project utilizes machine learning techniques, data preprocessing, and statistical analysis to derive insights and predictions.
 
-# Overview
+
+Overview
 
 Cardiovascular diseases, including heart disease, remain a leading cause of mortality globally. This project focuses on leveraging data science methodologies to analyze and predict heart disease risk factors. By exploring a comprehensive dataset and applying machine learning algorithms, the study aims to provide valuable insights into the interplay between lifestyle choices, clinical indicators, and the likelihood of developing heart disease.
 
-# Keywords—Heart Disease risk analysis, Data Preprocessing, Data Visualization, Exploratory Data Analysis, Logistic Regression, Predictive modeling
+Keywords:
 
-# Project Structure
+Heart Disease risk analysis, Data Preprocessing, Data Visualization, Exploratory Data Analysis, Logistic Regression, Predictive modeling
+
+
+Project Structure
 
 1. Dataset and Preprocessing
 The dataset used in this project is sourced from UC Irvine ML Repository and Kaggle and comprises diverse patient attributes such as age, sex, cholesterol levels, blood pressure, and various diagnostic indicators. Initial preprocessing steps include handling missing data, normalization, and categorical data encoding to prepare the dataset for analysis.
@@ -24,11 +28,13 @@ Logistic Regression, a binary classification technique, is implemented to predic
 5. Results and Insights
 The results section presents findings from the analysis, including key factors influencing heart disease risk. Visualizations and statistical summaries highlight attributes such as age, cholesterol levels, chest pain type, and exercise-induced angina as significant predictors of heart disease. The evaluation metrics provide insights into the model's performance and its utility in clinical decision-making.
 
-# Conclusion and Future Scope
+
+Conclusion and Future Scope
 
 The study concludes with implications for healthcare practitioners and policymakers, emphasizing the importance of early risk assessment and targeted interventions based on predictive modeling. Future research could expand the model to include additional environmental factors, enhance prediction accuracy, and integrate real-time healthcare data for more robust risk assessment.
 
-# Accuracy: 82.61%
+
+Accuracy: 82.61%
 
 
 Tools and Technologies
