@@ -52,3 +52,5 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 Google Colab and Jupyter Notebook for development and analysis
 
 Predictive Model: Logistic Regression
+
+https://colab.research.google.com/drive/12aOvJosAJoTUvLo8N7Y1hXGH0McfHAii#scrollTo=24cfeb4b
